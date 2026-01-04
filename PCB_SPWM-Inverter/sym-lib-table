@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "stm32f401_blackpill_ccu")(type "KiCad")(uri "${KIPRJMOD}/Component/stm32f401_blackpill_ccu.kicad_sym")(options "")(descr ""))
+  (lib (name "lm2596")(type "KiCad")(uri "${KIPRJMOD}/Component/lm2596.kicad_sym")(options "")(descr ""))
+  (lib (name "IRFZ44NPBF")(type "KiCad")(uri "${KIPRJMOD}/Component/IRFZ44NPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "TC4420EPA")(type "KiCad")(uri "${KIPRJMOD}/Component/TC4420EPA.kicad_sym")(options "")(descr ""))
+)
