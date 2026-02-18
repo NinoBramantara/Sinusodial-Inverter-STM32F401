@@ -1,0 +1,127 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "MBR1545CT" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at -5.08 7.62 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "MBR1545CT" (id 1) (at -5.08 -10.16 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "MBR1545CT:TO254P1050X476X2020-3" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Diodes Incorporated" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "20.20mm" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "Package" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/MBR1545CT/Diodes+Inc./view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "IPC-7351B" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "G2104" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/MBR1545CT/Diodes+Inc./view-part/?ref=snap" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "MBR1545CT" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            Diode Array 1 Pair Common Cathode Schottky 45 V 7.5A Through Hole TO-220-3\n                        \n" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Taiwan Semiconductor" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "MBR1545CT_0_0"
+      (polyline
+        (pts (xy -1.27 3.81) (xy 1.27 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 5.08) (xy -1.27 6.35)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 6.35) (xy 1.27 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 6.35) (xy -1.27 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 5.08) (xy -1.27 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 5.08) (xy 1.27 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 5.08) (xy -1.27 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 5.08) (xy 2.54 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -6.35) (xy 1.27 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -5.08) (xy -1.27 -3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -3.81) (xy 1.27 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -3.81) (xy -1.27 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 -5.08) (xy -1.27 -6.35)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -5.08) (xy 1.27 -6.35)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 -5.08) (xy -1.27 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 -5.08) (xy 2.54 -5.08)) (stroke (width 0.254))
+      )
+      (rectangle (start 2.54 -5.08) (end 2.54 5.08)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -5.08 5.08 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -5.08 -5.08 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 0.0 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

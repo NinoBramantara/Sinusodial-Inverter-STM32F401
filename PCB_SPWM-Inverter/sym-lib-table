@@ -4,4 +4,5 @@
   (lib (name "lm2596")(type "KiCad")(uri "${KIPRJMOD}/Component/lm2596.kicad_sym")(options "")(descr ""))
   (lib (name "IRFZ44NPBF")(type "KiCad")(uri "${KIPRJMOD}/Component/IRFZ44NPBF.kicad_sym")(options "")(descr ""))
   (lib (name "TC4420EPA")(type "KiCad")(uri "${KIPRJMOD}/Component/TC4420EPA.kicad_sym")(options "")(descr ""))
+  (lib (name "MBR1545CT")(type "KiCad")(uri "${KIPRJMOD}/Component/MBR1545CT.kicad_sym")(options "")(descr ""))
 )
